@@ -76,7 +76,7 @@
     "gulp-sourcemaps": "^2.6.5",
     "gulp-uglify": "^3.0.2",
     "jaguarjs-jsdoc": "github:dcodeIO/jaguarjs-jsdoc",
-    "jsdoc": "^3.6.3",
+    "jsdoc": "git://github.com/VitalyName/jsdoc.git#80443ca629052fc7aa8ff83ad3331be3123e39ce",
     "minimist": "^1.2.0",
     "nyc": "^15.0.0",
     "reflect-metadata": "^0.1.13",
